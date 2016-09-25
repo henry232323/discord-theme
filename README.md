@@ -1,17 +1,22 @@
-# Nova Discord Theme
+# Dave-Strider-BetterDiscord-Theme
+A theme for BetterDiscord with a fancy background
 This is a custom made theme for Discord (requires BetterDiscord).
 
 Feel free to use it, leave feedback and suggest new features!
 
-Designed by *DinosParkour* ; latest version: **7.15**.
+Original (Nova) Designed by *DinosParkour* ; latest version: **7.15**.
 
 # Dynamic Import
 Paste this link in your Custom CSS section if you want to
 dynamically load the theme without having to download any files.
+
 ```css
 @import
-    url("https://drive.google.com/uc?export=download&id=0B03yfnLpAGhPcXp3Uzg0MTZDZFU")
+    url("http://rhodochrosite.xyz/files/Dave.theme.css")
 ```
 
 # Preview
-![Preview](https://i.imgur.com/uEeYrJ1.png)
+![Preview](https://raw.githubusercontent.com/henry232323/Dave-Strider-BetterDiscord-Theme/master/themepreview.JPG)
+
+#Background
+![Background](https://images4.alphacoders.com/221/221978.jpg)
