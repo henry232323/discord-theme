@@ -16,7 +16,7 @@ dynamically load the theme without having to download any files.
 ```
 
 # Preview
-![Preview](https://raw.githubusercontent.com/henry232323/Dave-Strider-BetterDiscord-Theme/master/themepreview.JPG)
+![Preview](https://raw.githubusercontent.com/henry232323/discord-theme/master/themepreview.JPG)
 
 #Background
 ![Background](https://images4.alphacoders.com/221/221978.jpg)
